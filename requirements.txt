@@ -1,5 +1,5 @@
 %%writefile requirements.txt
 streamlit
-tensorflow
+tensorflow-cpu
 numpy
 Pillow
